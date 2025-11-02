@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+emotion_mlp_model1.pkl
+*.db
+venv/
